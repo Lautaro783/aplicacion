@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiAplicacion</string>
+
+    <!-- Textos para campos y botones -->
+    <string name="hint_numero1">Ingrese el primer número</string>
+    <string name="hint_numero2">Ingrese el segundo número</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="btn_restar">Restar</string>
+    <string name="btn_multiplicar">Multiplicar</string>
+    <string name="btn_dividir">Dividir</string>
+
+    <!-- Mensajes -->
+    <string name="ingrese_ambos">Por favor, ingrese ambos números.</string>
+    <string name="no_dividir_cero">No se puede dividir por cero.</string>
+    <string name="resultado">Resultado: %1$.2f</string>
+</resources>
